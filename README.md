@@ -2,6 +2,7 @@
 
 ## AWS Setup
 
+Test
 Local dependencies:
 * Python 3.x
 * pip
